@@ -9,6 +9,9 @@ public class Test {
 	
 		//master´úÂë
 		System.out.println("loginaction");
+		
+		
+		
 
 	}
 
